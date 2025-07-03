@@ -1,5 +1,3 @@
-Aquí tienes el **README completo** listo para copiar y pegar directamente en tu repositorio. Incluye todos los pasos y está optimizado para que se vea profesional en GitHub.
-
 ```markdown
 # carrusel-cards
 
