@@ -80,7 +80,7 @@ Coloca el CSS dentro del `<head>` y el JS justo antes de cerrar el `<body>`.
 
 ## 🎥 5. Video demo
 
-*(Incluir aquí un video demostrativo de máximo 1 min: navegación, responsividad y estilo moderno al usar el carrusel.)*
+[Ver demo en video](https://drive.google.com/file/d/1SrrUBwMNmYWRuqndW1PGiz_X1wD12xcc/view)
 
 ---
 
@@ -94,7 +94,7 @@ Coloca el CSS dentro del `<head>` y el JS justo antes de cerrar el `<body>`.
 
 ## 📝 Créditos
 
-Desarrollado por **Zenón Regalado Vicente de Jesús y Juarez Fernandez Eric Aaron** 💻  
+Desarrollado por **Zenón Regalado Vicente de Jesús y Juarez Fernandez Eric Aaron ( @Ericjuxe ) ** 💻  
 Diseño inspirado en carruseles modernos tipo “cards”.
 
 ---
@@ -106,3 +106,5 @@ Forkea el repo 👉 crea tu branch 👉 envía tu PR. ¡Con gusto lo revisaré!
 ---
 
 ```
+
+
