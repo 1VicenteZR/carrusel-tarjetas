@@ -94,7 +94,7 @@ Coloca el CSS dentro del `<head>` y el JS justo antes de cerrar el `<body>`.
 
 ## 📝 Créditos
 
-Desarrollado por Zenón Regalado Vicente de Jesús y Eric Aaron Juárez Fernández (@Ericjuxe) 🖥️
+Desarrollado por Zenón Regalado Vicente de Jesús y Eric Aaron Juárez Fernández (@EricJuxe) 🖥️
 Diseño inspirado en carruseles modernos tipo “cards”.
 
 ---
