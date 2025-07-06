@@ -1,6 +1,7 @@
 ```markdown
 # carrusel-cards
 
+
 Un componente visual de **carrusel de tarjetas (cards)**, moderno y responsive, desarrollado con **HTML, CSS y JavaScript puro**. Permite mostrar múltiples tarjetas con imágenes y texto, con navegación fluida y adaptada a cualquier tamaño de pantalla.
 
 ---
@@ -94,6 +95,7 @@ Coloca el CSS dentro del `<head>` y el JS justo antes de cerrar el `<body>`.
 
 ## 📝 Créditos
 
+Equipo 9
 Desarrollado por Zenón Regalado Vicente de Jesús y Eric Aaron Juárez Fernández @EricJuxe 🖥️
 Diseño inspirado en carruseles modernos tipo “cards”.
 
